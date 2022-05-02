@@ -1,5 +1,5 @@
 # 2048.py - Uses selenium to navigate a Firefox browser to play 2048 simply by clicking the UP,
-#           RIGHT, LEFT, AND DOWN keys in rotation endlessly.
+#           RIGHT, LEFT, AND DOWN keys in rotation until the game ends and a retry button appears.
 
 
 from selenium import webdriver
